@@ -1,0 +1,9 @@
+name: RPGSkills
+version: '${project.version}'
+main: com.outcast.rpgskills.RPGSkills
+api-version: 1.19
+depend: [ RPGSkill, RPGClass, RPGCore ]
+softdepend: [ ]
+authors: [ Hexacorx ]
+description: Skills for the Outcast Server
+website: www.outcastrpg.com
